@@ -26,7 +26,7 @@
 </p>
 <p align="center">
 </p>
-- My Name Haikal
+- My Name Nevt
 </p>
 - Hello All 👋
 <br>
@@ -40,30 +40,6 @@
 
 ## CARA INSTALL DI TERMUX
 
-Run termux XM FIXED BY HAIKAL
-> pkg install update
-> pkg install upgrade
-> pkg install install nodejs
-> pkg install install libwebp
-> pkg install install mc
-> pkg install install ffmpeg
-> pkg install install wget
-> pkg install install tesseract
-> pkg install install nmap
-wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
-> pkg install imagemagick
-> termux-setup-storage
-> cd /sdcard
-> cp -r nama folder bot /$HOME
-> cd
-> cd nama folder bot
-> npm install gify-cli -g
-> pkg install curl
-> curl -qs https://www.npmjs.com/install.sh|npm_install=6.14.11 sh
-> npm install -g npm
-> npm install - npm
-
-> ▬▭▬▭▬▭▬▭▬▬▭▬▭▬
 
 # INSTALL
 * [Node.js](https://nodejs.org/en/)
@@ -72,4 +48,3 @@ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-oc
 * [Libwebp](https://developers.google.com/speed/webp/download)
 
 </div>
-</body># hw-bot-xm
